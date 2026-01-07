@@ -13,8 +13,6 @@ A command-line Pokedex application for tracking and viewing Pokémon from the Ka
 ## Building
 
 ```bash
-make
-# or
 gcc -o pokedex main.c pokedex.c -Wall -O2
 ```
 
