@@ -1,0 +1,28 @@
+# .gitignore for Pokédex Project
+
+# Compiled executables
+pokedex
+pokedex.exe
+
+# Object files
+*.o
+*.obj
+
+# User state file (personal progress)
+pokedex_state.dat
+
+# Editor/IDE files
+.vscode/
+.vs/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Build artifacts
+*.exe
+*.out
+*.app
+
+# Windows specific
+Thumbs.db
